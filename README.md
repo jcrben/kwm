@@ -40,6 +40,8 @@ Manage Kwm using brew services
 
 Copy the [example config](https://github.com/koekeishiya/kwm/blob/master/examples/kwmrc) to `~/.kwm/kwmrc` as described in the brew caveat section.
 
+You may have to reboot your system for the service to properly start.
+
 ## Usage
 
 **NOTE:** Kwm requires ['Displays have separate spaces'](https://support.apple.com/library/content/dam/edam/applecare/images/en_US/osx/separate_spaces.png) to be enabled.
